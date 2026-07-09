@@ -38,12 +38,20 @@ Coming soon.
 
 If you use StatRidge in research, please cite the associated publications.
 
-## Author
+## Principal Author and Co-Authors
 
-Dr. Jerson Mohamad
+Jerson S. Mohamad, Ph.D.
+Angelyn S. Delica, MS
+Maydalyn H. Esperat, MAS
+Aubrey G. Labastilla, MAS
+Shiela May M. Ledesma, MAS
+Doeyien D. Misil, MAMS
+
 Department of Mathematics and Statistics
 Western Mindanao State University
 Philippines
+
+
 
 ## License
 
