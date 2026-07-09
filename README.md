@@ -1,6 +1,6 @@
 # StatRidge
 
-**StatRidge** is an R package that translates peer-reviewed research on ridge regression estimation into reusable statistical software.
+**StatRidge** is an R package implementing peer-reviewed ridge regression methodologies developed through simulation studies. The package translates published statistical research into reusable software for research, teaching, and statistical data analysis.
 
 The package implements classical and newly developed ridge parameter estimators for linear, logistic, and Poisson regression models. It is intended to provide researchers, educators, and practitioners with an accessible platform for ridge regression analysis, simulation studies, and methodological evaluation.
 
