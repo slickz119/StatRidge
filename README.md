@@ -38,15 +38,15 @@ Coming soon.
 
 If you use StatRidge in research, please cite the associated publications.
 
-## Principal Author
+## Principal Author and Co-Authors
 Jerson S. Mohamad, Ph.D.
 
 ##
-Angelyn S. Delica, MS
-Maydalyn H. Esperat, MAS
-Aubrey G. Labastilla, MAS
-Shiela May M. Ledesma, MAS
-Doeyien D. Misil, MAMS
+Angelyn S. Delica,
+Maydalyn H. Esperat,
+Aubrey G. Labastilla,
+Shiela May M. Ledesma, and
+Doeyien D. Misil.
 
 Department of Mathematics and Statistics
 Western Mindanao State University
