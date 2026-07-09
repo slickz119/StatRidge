@@ -51,8 +51,8 @@ Aubrey G. Labastilla,
 Shiela May M. Ledesma, and
 Doeyien D. Misil.
 
-Department of Mathematics and Statistics
-Western Mindanao State University
+Department of Mathematics and Statistics,
+Western Mindanao State University,
 Philippines
 
 
