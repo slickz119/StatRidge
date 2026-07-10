@@ -1,38 +1,70 @@
 # StatRidge
 
-**StatRidge** is an R package implementing peer-reviewed ridge regression methodologies developed through simulation studies. The package translates published statistical research into reusable software for research, teaching, and statistical data analysis.
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)]()
 
-The package implements classical and newly developed ridge parameter estimators for linear, logistic, and Poisson regression models. It is intended to provide researchers, educators, and practitioners with an accessible platform for ridge regression analysis, simulation studies, and methodological evaluation.
+## Overview
 
-## Background
+**StatRidge** is an R package developed from peer-reviewed research on ridge regression estimation and simulation studies. It translates published statistical methodologies into reusable software for research, teaching, and practical data analysis.
 
-StatRidge was developed from a series of peer-reviewed research publications investigating improved ridge regression estimators under multicollinearity. The package serves as the software implementation of the statistical methodologies proposed and evaluated through extensive Monte Carlo simulation studies.
+The package implements classical and newly developed ridge regression estimators for linear, logistic, and Poisson regression models.
 
-## Current Features
+---
 
-- Linear ridge regression
-- Logistic ridge regression
-- Poisson ridge regression
-- Classical ridge parameter estimators
-- Proposed ridge parameter estimators
-- Monte Carlo simulation functions
-- Estimator comparison tools
-- Diagnostic utilities
+## Objectives
 
-## Future Development
+StatRidge aims to:
 
-Planned features include:
+- translate published statistical research into reusable software;
+- provide accessible implementations of ridge regression methodologies;
+- support reproducible research;
+- facilitate teaching and learning in regression analysis;
+- serve as a platform for future methodological developments.
+
+---
+
+## Current Status
+
+🚧 Under active development
+
+Current implementation includes:
+
+- Linear Ridge Regression
+- Logistic Ridge Regression
+- Poisson Ridge Regression
+- Monte Carlo Simulation Framework
+- Ridge Parameter Estimators
+
+---
+
+## Research Foundation
+
+The package is developed from a series of peer-reviewed publications investigating ridge regression estimation under multicollinearity through simulation studies.
+
+---
+
+## Planned Features
 
 - Automatic ridge parameter selection
-- jamovi module integration
-- Shiny web application
+- Model comparison
+- Simulation engine
+- jamovi integration
+- Shiny application
 - Additional generalized linear ridge models
-- Bayesian ridge regression
-- Parallel simulation engine
+
+---
 
 ## Installation
 
 Coming soon.
+
+---
+
+## Documentation
+
+Documentation will be added with future releases.
+
+---
+
 
 ## Citation
 
@@ -58,5 +90,7 @@ Philippines
 
 
 ## License
+
+GNU General Public License v3.0 (GPL-3.0)
 
 To be determined.
