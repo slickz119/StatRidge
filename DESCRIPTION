@@ -1,0 +1,22 @@
+Package: StatRidge
+Type: Package
+Title: Ridge Regression Methods and Simulation Tools
+Version: 0.1.0
+Authors@R: 
+    person(
+      given = "Jerson",
+      family = "Mohamad",
+      role = c("aut", "cre"),
+      email = "mohamad.jerson@wmsu.edu.ph"
+    )
+Description: An R package translating peer-reviewed research on ridge
+    regression estimation into reusable statistical software. StatRidge
+    implements classical and proposed ridge regression methodologies for
+    linear, logistic, and Poisson regression models together with
+    simulation and model comparison tools for research, teaching, and
+    statistical data analysis.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
