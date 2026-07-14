@@ -72,6 +72,7 @@ If you use StatRidge in research, please cite the associated publications.
 - A Simulation Study of Some Logistic, Poisson, and Multiple Ridge Regression Estimators. (2025). European Journal of Pure and Applied Mathematics, 18(2), 6162. https://doi.org/10.29020/nybg.ejpam.v18i2.6162
 - Jerson S. Mohamad, Angelyn S. Delica , Shiela May M. Ledesma. “POISSON RIDGE REGRESSION ESTIMATORS”. Advances and Applications in Statistics, vol. 93, no. 1, Jan. 2026, pp. 97-112, https://doi.org/10.17654/0972361726007.
 - Doeyien D. Misil, Aubrey G. Labastilla, Maydalyn H. Esperat. “DATA-DRIVEN LOGISTIC RIDGE ESTIMATORS USING MSE-BASED SELECTION”. Far East Journal of Mathematical Sciences (FJMS), vol. 143, no. 4, Apr. 2026, pp. 1267-83, https://doi.org/10.17654/0972087126073.
+- Mohamad, J., Delica, A. S., Esperat, M. H., Labastilla, A. G., Ledesma, S. M. M., & Misil, D. D. (2026). *StatRidge* (Version 0.1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21350867
 
 ## Principal Author and Co-Authors
 Jerson S. Mohamad, Ph.D.
